@@ -21,9 +21,8 @@ utils.py: Utility functions for validation
 1. Ensure Python 3.x is installed on your system
 2. Clone the repository:
 ```bash
-git clone <repository-url>
-cd noiseless
 
+cd noiseless
 Run the application: python main.py
 
 ## User Input Parameters:
